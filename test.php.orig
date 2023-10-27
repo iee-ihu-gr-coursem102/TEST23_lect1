@@ -1,0 +1,10 @@
+<?php
+
+<<<<<<< HEAD
+$a = 50;
+print($a);
+=======
+$a = 'remote';
+>>>>>>> bf1e3a01ddebdcab6f4d1a1bcbe48efd263ca0e7
+
+?>
